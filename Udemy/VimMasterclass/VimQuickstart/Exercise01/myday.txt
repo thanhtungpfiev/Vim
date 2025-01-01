@@ -1,0 +1,4 @@
+Here is the first day of my learning Vim also first day of the year.
+
+I am grateful to be able to learn something new and I am excited to see what I can do with Vim.
+
